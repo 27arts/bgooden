@@ -7,3 +7,4 @@
 me@bgooden.com
 
 <source src="bgooden/31BD03CD-BCFC-41D6-AA10-E20EE9AC2F40.jpeg">
+<img src="smiley.gif" alt="Smiley face" height="42" width="42">
