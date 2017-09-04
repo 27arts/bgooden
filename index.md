@@ -6,4 +6,4 @@
 
 me@bgooden.com
 
-<source src="bgooden/31BD03CD-BCFC-41D6-AA10-E20EE9AC2F40.jpeg">
+<source src="bgooden/31BD03CD-BCFC-41D6-AA10-E20EE9AC2F40.jpeg" /></video></strong></span></h2>>
