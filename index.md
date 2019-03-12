@@ -1,12 +1,11 @@
+<!DOCTYPE html>
 <html>
 <head>
-<style>
-body {
-    background-color: white;
-}
-</style>
+<style>body{background-color:#d0e4fe;}h1{color:white;text-align:center;}p{font-family:"Arail";font-size:20px;}</style>
 </head>
 <body>
-<p>Bryan Gooden</p>
-<p><a href="mailto:me@bgooden.com">me@bgooden.com</a></p>
+<h1>Bryan Gooden</h1>
+<p><a href="mailto:me@bgooden.com">Contact</a></p>
 <p>7705000422</p>
+</body>
+</html>
